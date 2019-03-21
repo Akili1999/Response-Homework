@@ -1,0 +1,86 @@
+body {
+    background-image: url(circuit.png)
+}
+.main
+{
+    margin-left: 20%;
+    margin-right: 22%;
+    color: #777777;
+    background-color: #ffffff;
+    height: 900px;
+    margin-top: 50px
+}
+h2{
+    margin-left: 2%;
+    border-bottom: 6px gray;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    margin-right: 2%;
+}
+.footer{
+    position: absolute;
+    color: white;
+    background-color: #666666;
+    text-align: center;
+    left: 0;
+    right: 0;
+    bottom: -1;
+    padding: 2rem;
+    border-top: 6px #4aaaa5;
+    border-top-style: ridge;
+}
+h1{
+    padding-bottom: 14px;
+    padding-right: 0px;
+    margin-left: 365px;
+    margin-right:1310px;
+    margin-top: -106px;
+    background-color: #4aaaa5;
+    color: white;
+}
+ul {
+    list-style-type: none;
+    margin-top: -10px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+    border-bottom: 2px gray;
+    border-bottom-style: solid;
+  }
+  
+  li {
+    float: right;
+    
+  }
+  
+  li a {
+    display: block;
+    color: gray;
+    text-align: center;
+    padding: 34px 36px;
+    text-decoration: none;
+    
+  }
+  li a:hover {
+    background-color: #4aaaa5;
+  }
+.box-set{
+    position: absolute;
+    height: 860px;
+    margin: 75px;
+    text-align: center;
+    margin-left: 22%;
+    margin-top: -47%
+}
+
+.box-set2{
+    position: absolute;
+    height: 860px;
+    margin: 75px;
+    text-align: center;
+    margin-left: 52%;
+    margin-top: -47%}
+h3{
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
