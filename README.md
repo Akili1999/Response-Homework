@@ -1,2 +1,2 @@
-# Homework-1
-Student Bio
+# Response-Homework
+Responsive student bio
